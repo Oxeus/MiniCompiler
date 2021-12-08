@@ -1,0 +1,12 @@
+int num;
+boolean res;
+num = 0;
+res = true;
+
+res = 12;
+num = true;
+
+res + num;
+res && num;
+
+1 & res;
